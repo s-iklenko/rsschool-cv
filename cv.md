@@ -12,8 +12,8 @@ Self-organized and self-motivated person, fast learner Proactive team player who
 
 ## Skills
 
-- *Marketing Cloud, HTML/CSS, AMPScript, REST API, SQL, SOQL, JSON*
-- *Postman, Litmus, Workbench, Visual Studio Code, Figma*
+- Marketing Cloud, HTML/CSS, AMPScript, REST API, SQL, SOQL, JSON
+- Postman, Litmus, Workbench, Visual Studio Code, Figma
 
 ## Code Samples
 
